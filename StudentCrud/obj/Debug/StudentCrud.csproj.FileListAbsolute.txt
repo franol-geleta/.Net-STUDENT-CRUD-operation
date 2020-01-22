@@ -1,0 +1,160 @@
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\StudentCrud.dll.config
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\StudentCrud.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\StudentCrud.pdb
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csc.exe
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csc.exe.config
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csc.rsp
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csi.exe
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csi.exe.config
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\csi.rsp
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.AppContext.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Console.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\vbc.exe
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\vbc.exe.config
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\vbc.rsp
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Antlr3.Runtime.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\EntityFramework.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Newtonsoft.Json.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Helpers.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Mvc.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Optimization.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Razor.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\WebGrease.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\EntityFramework.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Helpers.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Mvc.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Optimization.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.Razor.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Newtonsoft.Json.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Antlr3.Runtime.pdb
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.CopyComplete
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\obj\Debug\StudentCrud.dll
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\obj\Debug\StudentCrud.pdb
+C:\Users\Mom\Desktop\DBA\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csprojAssemblyReference.cache
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\StudentCrud.dll.config
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\StudentCrud.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\StudentCrud.pdb
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csc.exe
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csc.exe.config
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csc.rsp
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csi.exe
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csi.exe.config
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\csi.rsp
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.AppContext.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Console.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.IO.Compression.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Claims.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.ValueTuple.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\vbc.exe
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\vbc.exe.config
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\vbc.rsp
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Antlr3.Runtime.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\EntityFramework.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\EntityFramework.SqlServer.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Newtonsoft.Json.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Helpers.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Mvc.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Optimization.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Razor.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\WebGrease.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\EntityFramework.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\EntityFramework.SqlServer.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Helpers.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Mvc.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Optimization.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.Razor.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Newtonsoft.Json.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Antlr3.Runtime.pdb
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csprojAssemblyReference.cache
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.CoreCompileInputs.cache
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\obj\Debug\StudentCrud.csproj.CopyComplete
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\obj\Debug\StudentCrud.dll
+C:\Users\Mom\Desktop\New folder (4)\StudentCrud\StudentCrud\obj\Debug\StudentCrud.pdb
